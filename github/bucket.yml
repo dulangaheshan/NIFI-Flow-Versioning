@@ -1,0 +1,6 @@
+flows:
+  1e8b3957-734d-4c66-beb2-82c63fa4efc2: {ver: 1, file: custom_processors.snapshot,
+    comments: initial commit, author: anonymous, created: 1666902623923, flowName: custom
+      processors, flowDesc: test-nifi-versioning}
+layoutVer: 1
+bucketId: 8c7415c3-bbca-49d2-8367-11564c26ea9a
