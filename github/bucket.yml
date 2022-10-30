@@ -2,5 +2,8 @@ flows:
   1e8b3957-734d-4c66-beb2-82c63fa4efc2: {ver: 1, file: custom_processors.snapshot,
     comments: initial commit, author: anonymous, created: 1666902623923, flowName: custom
       processors, flowDesc: test-nifi-versioning}
+  eec30a82-75a5-4b0a-bdf0-30efa319addb: {ver: 1, file: schema_generator.snapshot,
+    comments: schema-generator, author: anonymous, created: 1667132222887, flowName: schema
+      generator, flowDesc: ''}
 layoutVer: 1
 bucketId: 8c7415c3-bbca-49d2-8367-11564c26ea9a
